@@ -1,0 +1,29 @@
+.searchBar {
+    display: flex;
+    gap: 8px;
+}
+
+.searchBarInputContainer {
+    position: relative;
+}
+
+.searchBarIcon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: gray;
+    cursor: pointer;
+}
+
+.searchBar input {
+    box-sizing: border-box;
+    width: 400px;
+    height: 40px;
+    border: 2px solid rgb(131, 131, 131);
+    border-radius: 4px;
+    padding: 4px 8px;
+    padding-left: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}

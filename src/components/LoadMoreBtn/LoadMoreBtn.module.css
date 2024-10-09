@@ -1,0 +1,11 @@
+button.loadMoreBtn {
+    height: 40px;
+    padding: 8px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgba(15, 41, 147, 0.8);
+    color: aliceblue;
+    border: 2px solid rgb(131, 131, 131);
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
