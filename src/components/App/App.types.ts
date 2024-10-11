@@ -1,4 +1,4 @@
-xport interface InittialModalParams {
+export interface InittialModalParams {
     modalIsOpen: boolean;
     urlRegular: string;
     imgAlt: string;

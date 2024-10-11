@@ -2,8 +2,8 @@
     display: block;
     margin: 0 auto 20px;
     padding: 8px 16px;
-    background-color: yellow;
-    color: black;
+    background-color: rgba(15, 41, 147, 0.8);
+    color: white;
     font-size: 18px;
     outline: transparent;
     border: 1px solid rgba(0, 0, 0, 0.489);
@@ -14,5 +14,5 @@
 .loadMoreBtn:hover,
 .loadMoreBtn:active,
 .loadMoreBtn:focus {
-    background-color: gold;
+    background-color: blue;
 }

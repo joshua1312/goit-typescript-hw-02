@@ -24,10 +24,6 @@ const ImageModal: React.FC<ImageModalProps> = ({ onModalClose, modalData }) => {
                     <FaUser size="18" />
                     {modalData.userName}
                 </li>
-                <li className={css.modalInfoListItem}>
-                    <AiFillLike size="18" />
-                    {modalData.likes}
-                </li>
             </ul>
         </Modal>
     );
